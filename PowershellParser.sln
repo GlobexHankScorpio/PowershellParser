@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31829.152
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PowershellParser", "PowershellParser\PowershellParser.csproj", "{A738A118-F9E6-426A-8D9F-351B0F607E34}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests", "UnitTests\UnitTests.csproj", "{EAAF1EE1-37F9-4A80-906E-6C3037BF9B15}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A738A118-F9E6-426A-8D9F-351B0F607E34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A738A118-F9E6-426A-8D9F-351B0F607E34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A738A118-F9E6-426A-8D9F-351B0F607E34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A738A118-F9E6-426A-8D9F-351B0F607E34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAAF1EE1-37F9-4A80-906E-6C3037BF9B15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAAF1EE1-37F9-4A80-906E-6C3037BF9B15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAAF1EE1-37F9-4A80-906E-6C3037BF9B15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAAF1EE1-37F9-4A80-906E-6C3037BF9B15}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {613A9EA2-A876-4495-B213-923FB6C911D7}
+	EndGlobalSection
+EndGlobal
